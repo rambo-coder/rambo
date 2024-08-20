@@ -5,3 +5,4 @@ pub_date	title	venue	excerpt	published	url_slug	paper_url	arxiv
 2023-08-30	Noise-Free Sampling Algorithms via Regularized Wasserstein Proximals	Research in Mathematical Sciences		FALSE	wass-prox		https://arxiv.org/abs/2308.14945	
 2024-05-09	Boosting Data-Driven Mirror Descent with Randomization, Equivariance, and Acceleration	Transactions on Machine Learning Research		TRUE	lmd-exts	https://openreview.net/forum?id=r2dx1s1lqG	https://arxiv.org/abs/2308.05045	
 2024-04-08	Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation			FALSE	mle-regu		https://arxiv.org/abs/2404.05445	
+2024-08-13	Blessing of Dimensionality for Approximating Sobolev Classes on Manifolds			FALSE	dim-sobolev		https://arxiv.org/abs/2408.06996	
