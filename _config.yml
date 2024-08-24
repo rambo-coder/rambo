@@ -12,9 +12,9 @@ title                    : "Yi Zhang's page"
 title_separator          : "-"
 name                     : &name "Yi Zhang"
 description              : &description "3rd year Mathematics PhD student at the University of Cambridge. Supervised by Prof. Carola-Bibiane Schönlieb."
-url                      : "https://rambo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rambo-coder.github.io/rambo/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rambo-coder/rambo.github.io"
+repository               : "rambo-coder/rambo"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
